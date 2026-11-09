@@ -3,7 +3,9 @@
   "ffBanner": null,
   "banners": null,
   "quick": null,
-  "images": null,
+  "images": {
+    "pop": "img-pop-1794237847421.jpg"
+  },
   "prod": null,
   "texts": {
     "siteName": "MISS-EKRA"
