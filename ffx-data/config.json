@@ -165,6 +165,30 @@
           "price": 450
         }
       ]
+    },
+    "wl": {
+      "packages": [
+        {
+          "label": "1X Weekly Lite",
+          "name": "1X Weekly Lite",
+          "price": 45
+        },
+        {
+          "label": "2X Weekly Lite",
+          "name": "2X Weekly Lite",
+          "price": 90
+        },
+        {
+          "label": "3X Weekly Lite",
+          "name": "3X Weekly Lite",
+          "price": 135
+        },
+        {
+          "label": "5X Weekly Lite",
+          "name": "5X Weekly Lite",
+          "price": 225
+        }
+      ]
     }
   },
   "texts": {
