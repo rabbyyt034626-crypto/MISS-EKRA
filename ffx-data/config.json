@@ -27,7 +27,7 @@
         {
           "label": "50 Diamond",
           "name": "50 Diamond",
-          "price": 36
+          "price": 40
         },
         {
           "label": "115 Diamond",
@@ -37,7 +37,7 @@
         {
           "label": "240 Diamond",
           "name": "240 Diamond",
-          "price": 158
+          "price": 160
         },
         {
           "label": "355 Diamond",
@@ -67,17 +67,17 @@
         {
           "label": "2530 Diamond",
           "name": "2530 Diamond",
-          "price": 1615
+          "price": 1620
         },
         {
           "label": "5060 Diamond",
           "name": "5060 Diamond",
-          "price": 3225
+          "price": 3230
         },
         {
           "label": "10120 Diamond",
           "name": "10120 Diamond",
-          "price": 6445
+          "price": 6450
         }
       ],
       "rules": [
